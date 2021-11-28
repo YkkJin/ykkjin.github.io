@@ -21,15 +21,5 @@
     
     
     
-    <item>
-      <title>test math</title>
-      <link>https://ykkjin.github.io/posts/testmath/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ykkjin.github.io/posts/testmath/</guid>
-      <description>Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $
-Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
-    </item>
-    
   </channel>
 </rss>
