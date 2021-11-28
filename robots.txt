@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ykkjin.github.io/sitemap.xml
