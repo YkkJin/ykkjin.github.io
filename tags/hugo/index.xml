@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Yukun Jin</title>
-    <link>https://ykkjin.github.io/</link>
-    <description>Recent content on Yukun Jin</description>
+    <title>hugo on Yukun Jin</title>
+    <link>https://ykkjin.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Yukun Jin</description>
     <image>
       <url>https://ykkjin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://ykkjin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 09:42:27 +0800</lastBuildDate><atom:link href="https://ykkjin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2021 09:42:27 +0800</lastBuildDate><atom:link href="https://ykkjin.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 12 19</title>
       <link>https://ykkjin.github.io/posts/2021-12-19/</link>
@@ -18,17 +18,6 @@
       <guid>https://ykkjin.github.io/posts/2021-12-19/</guid>
       <description>Dev Diary </description>
     </item>
-    
-    <item>
-      <title>写在最前面</title>
-      <link>https://ykkjin.github.io/posts/%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D%E9%9D%A2/</link>
-      <pubDate>Tue, 23 Nov 2021 17:34:40 -0500</pubDate>
-      
-      <guid>https://ykkjin.github.io/posts/%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D%E9%9D%A2/</guid>
-      <description>言为心声</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
